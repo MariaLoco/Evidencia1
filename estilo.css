@@ -72,6 +72,18 @@ a[href $="html"] {
     color: red;
 }
 
+aside {
+    width: 40%;
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: rgb(70, 17, 17);
+}
+aside > p {
+    margin: 0.5rem;
+}
 
 /*Poner fondo verde
 [lang]
