@@ -1,0 +1,22 @@
+.verde{
+    color:green;
+}
+.rojo{
+    color:red;
+}
+.grande{
+    font-size: 100px;
+}
+.chico{
+    font-size: 10px;
+}
+.furat{
+    color: gold;
+    font-size: 20px;
+    background-color: darkviolet;
+    font-family: sans-serif;
+}
+
+img {
+    border-radius: 50%;
+}
