@@ -94,6 +94,10 @@ hr {
     height: 5px;
 }
 
+li span {
+    background: gold;
+}  
+
 /*Poner fondo verde
 [lang]
 {
